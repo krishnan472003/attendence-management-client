@@ -1,0 +1,14 @@
+.headerStyle{
+    background-color:#070A52;
+    /* padding: 10px, */
+    display: flex;
+    justify-content: center;
+    align-items: center
+  }
+
+/* .bgImageStyle{
+    backgroundSize: 'cover';
+    backgroundPosition: 'center';
+    height: '100vh';
+    backgroundImage: 'url(./bg-img.jpg)'
+} */
